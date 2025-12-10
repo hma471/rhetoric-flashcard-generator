@@ -1,0 +1,5 @@
+{
+  "name": "Rhetoric Flashcard Generator",
+  "description": "A multi-language tool to generate and download rhetoric activity flashcards.",
+  "requestFramePermissions": []
+}
